@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/E_Admin_Portal/static/js/main.c13f4605.chunk.js",
-    "main.js.map": "/E_Admin_Portal/static/js/main.c13f4605.chunk.js.map",
+    "main.js": "/E_Admin_Portal/static/js/main.de748648.chunk.js",
+    "main.js.map": "/E_Admin_Portal/static/js/main.de748648.chunk.js.map",
     "runtime-main.js": "/E_Admin_Portal/static/js/runtime-main.32a6a8a5.js",
     "runtime-main.js.map": "/E_Admin_Portal/static/js/runtime-main.32a6a8a5.js.map",
-    "static/js/2.90a496aa.chunk.js": "/E_Admin_Portal/static/js/2.90a496aa.chunk.js",
-    "static/js/2.90a496aa.chunk.js.map": "/E_Admin_Portal/static/js/2.90a496aa.chunk.js.map",
+    "static/js/2.4a75779a.chunk.js": "/E_Admin_Portal/static/js/2.4a75779a.chunk.js",
+    "static/js/2.4a75779a.chunk.js.map": "/E_Admin_Portal/static/js/2.4a75779a.chunk.js.map",
     "index.html": "/E_Admin_Portal/index.html",
-    "precache-manifest.948c60bc75734b34418cd481b5e24984.js": "/E_Admin_Portal/precache-manifest.948c60bc75734b34418cd481b5e24984.js",
+    "precache-manifest.2d17661312f5feeb0ebcaa4d8cfd6026.js": "/E_Admin_Portal/precache-manifest.2d17661312f5feeb0ebcaa4d8cfd6026.js",
     "service-worker.js": "/E_Admin_Portal/service-worker.js",
-    "static/js/2.90a496aa.chunk.js.LICENSE.txt": "/E_Admin_Portal/static/js/2.90a496aa.chunk.js.LICENSE.txt"
+    "static/js/2.4a75779a.chunk.js.LICENSE.txt": "/E_Admin_Portal/static/js/2.4a75779a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32a6a8a5.js",
-    "static/js/2.90a496aa.chunk.js",
-    "static/js/main.c13f4605.chunk.js"
+    "static/js/2.4a75779a.chunk.js",
+    "static/js/main.de748648.chunk.js"
   ]
 }
